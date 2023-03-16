@@ -1,4 +1,4 @@
-import chalnaari from "./assets/chalnaari.svg";
+import chalnaari from "./assets/chalnaari.png";
 import chalnaariFace from "./assets/chalnaariFace.svg";
 
 function App() {
